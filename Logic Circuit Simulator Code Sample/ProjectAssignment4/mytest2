@@ -1,0 +1,4 @@
+INPUT 6 in1 in2 in3 sin1 sin2 sin3
+OUTPUT 9 ou1 ou2 ou3 ou4 ou5 ou6 ou7 ou8 fout
+DECODER 3 in1 in2 in3 ou1 ou2 ou3 ou4 ou5 ou6 ou7 ou8
+MULTIPLEXER 3   1 0 1 0 1 0 1 0     sin1 sin2 sin3 fout

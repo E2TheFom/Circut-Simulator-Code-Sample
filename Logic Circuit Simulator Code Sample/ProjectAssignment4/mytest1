@@ -1,0 +1,5 @@
+INPUT 4 a b c d
+OUTPUT 3 x y hello
+AND c hello y
+OR a b hello
+XOR a d x
